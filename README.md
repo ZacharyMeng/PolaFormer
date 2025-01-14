@@ -28,7 +28,7 @@ Linear attention has emerged as a promising alternative to softmax-based attenti
     <img src="figures/pola.png" width= 500>
 </p>
 
-- Comparison of different models on LRA.
+- Comparison of different models on Long Range Arena benchmark.
 
 | Model                 | Text  | ListOps | Retrieval      | Pathfinder | Image | Average |
 |-----------------------|-------|---------|----------------|------------|-------|---------|

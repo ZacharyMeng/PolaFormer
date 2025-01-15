@@ -28,11 +28,10 @@ Linear attention has emerged as a promising alternative to softmax-based attenti
     <img src="figures/pola.png" width= 500>
 </p>
 
-- Comparison of different models on Long Range Arena benchmark.
+- Performance on Long Range Arena benchmark.
 
 | Model                 | Text  | ListOps | Retrieval      | Pathfinder | Image | Average |
 |-----------------------|-------|---------|----------------|------------|-------|---------|
-| Transformer           | 61.55 | 38.71   | 80.93          | 70.39      | 39.14 | 58.14   |
 | $\text{PolaFormer}_{\alpha=3}$ | 73.06 | 37.35   | 80.50          | 70.53      | 42.15 | 60.72   |
 | $\text{PolaFormer}_{\alpha=5}$ | 72.33 | 38.76   | 80.37          | 68.98      | 41.91 | 60.47   |
 | $\text{PolaFormer}_{\alpha=7}$ | 71.93 | 37.60   | 81.47          | 69.09      | 42.77 | 60.57   |

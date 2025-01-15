@@ -111,33 +111,7 @@ python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg <path-to-con
 - **To train `Pola-PVT-T/S/M/B` on ImageNet from scratch, run:**
 
 ```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_pvt_t.yaml --data-path <imagenet-path> --output <output-path> --find-unused-params
-```
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_pvt_s.yaml --data-path <imagenet-path> --output <output-path> --find-unused-params
-```
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_pvt_m.yaml --data-path <imagenet-path> --output <output-path> --find-unused-params
-```
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_pvt_b.yaml --data-path <imagenet-path> --output <output-path> --find-unused-params
-```
-
-- **To train `Pola-Swin-T/S/B` on ImageNet from scratch, run:**
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_swin_t.yaml --data-path <imagenet-path> --output <output-path>
-```
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_swin_s.yaml --data-path <imagenet-path> --output <output-path>
-```
-
-```shell
-python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg ./cfgs/flatten_swin_b.yaml --data-path <imagenet-path> --output <output-path>
+bash pretrain.sh
 ```
 
 ## Acknowledgements

@@ -97,7 +97,7 @@ python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg <path-to-con
 
 ## Train Models from Scratch
 
-- **To train `Pola-PVT-T/S/M/B` on ImageNet from scratch, run:**
+- **To train our model on ImageNet from scratch, see pretrain.sh and run:**
 
 ```shell
 bash pretrain.sh

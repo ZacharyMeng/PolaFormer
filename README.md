@@ -4,6 +4,7 @@
 This repo contains the official **PyTorch** code and pre-trained models for PolaFormer (ICLR 2025). 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2410.23168-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.23168)
+[![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-TokenFormer-yellow)](https://huggingface.co/ZachMeng/PolaFormer/tree/main)
 
 </h5>
 

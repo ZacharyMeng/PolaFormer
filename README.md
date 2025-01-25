@@ -86,8 +86,8 @@ imagenet
 
 Based on different model architectures, we provide several pretrained models, as listed below.
 
-| model  | Reso | acc@1 | config | pretrained weights |
-| :---: | :---: | :---: | :---: | :---: |
+| model  | Reso | acc@1 | config |
+| :---: | :---: | :---: | :---: |
 | Pola-PVT-T | $224^2$ | 78.8 (+3.7) | [config](cfgs/pola_pvt_t.yaml) |
 | Pola-PVT-S | $224^2$ | 81.9 (+2.1) | [config](cfgs/pola_pvt_s.yaml) |
 | Pola-Swin-T | $224^2$ | 82.6 (+1.4) | [config](cfgs/pola_swin_t.yaml) |

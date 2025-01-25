@@ -1,7 +1,11 @@
 # PolaFormer: Polarity-aware Linear Attention for Vision Transformers
+<h5 align="center">
 
-This repo contains the official **PyTorch** code and pre-trained models for PolaFormer (ICLR 2025). [[Paper Link]](https://openreview.net/pdf?id=kN6MFmKUSK)
+This repo contains the official **PyTorch** code and pre-trained models for PolaFormer (ICLR 2025). 
 
+[![arXiv](https://img.shields.io/badge/Arxiv-2410.23168-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.23168)
+
+</h5>
 ## Introduction
 
 ### Motivation

@@ -3,7 +3,7 @@
 
 This repo contains the official **PyTorch** code and pre-trained models for PolaFormer (ICLR 2025). 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2410.23168-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.23168)
+[![arXiv](https://img.shields.io/badge/Arxiv-2501.15061-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.15061)
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-PolaFormer-yellow)](https://huggingface.co/ZachMeng/PolaFormer/tree/main)
 
 </h5>
@@ -117,11 +117,14 @@ This code is developed on the top of [Swin Transformer](https://github.com/micro
 If you find this repo helpful, please consider citing us.
 
 ```latex
-@InProceedings{han2023flatten,
-  title={FLatten Transformer: Vision Transformer using Focused Linear Attention},
-  author={Han, Dongchen and Pan, Xuran and Han, Yizeng and Song, Shiji and Huang, Gao},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2023}
+@misc{meng2025polaformerpolarityawarelinearattention,
+      title={PolaFormer: Polarity-aware Linear Attention for Vision Transformers}, 
+      author={Weikang Meng and Yadan Luo and Xin Li and Dongmei Jiang and Zheng Zhang},
+      year={2025},
+      eprint={2501.15061},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.15061}, 
 }
 ```
 

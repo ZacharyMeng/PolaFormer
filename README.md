@@ -1,12 +1,24 @@
-# PolaFormer: Polarity-aware Linear Attention for Vision Transformers
+# PolaFormer: Polarity-aware Linear Attention for Vision Transformers [ICLR 2025]
 <h5 align="center">
 
-This repo contains the official **PyTorch** code and pre-trained models for PolaFormer (ICLR 2025). 
+If you like our works, please support us with your stars⭐!
+
+🚀 Welcome to the repo of **PolaFormer**! 
+
+This repo contains the official **PyTorch** code and pre-trained models for PolaFormer.
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2501.15061-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.15061)
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-PolaFormer-yellow)](https://huggingface.co/ZachMeng/PolaFormer/tree/main)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZacharyMeng%2FPolaFormer%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </h5>
+
+## 🔥 News
+- [2/4]  🔥 The triton implementation of PolaFormer is released thanks to [fbi_la library](https://github.com/fla-org/flash-bidirectional-linear-attention/blob/main/fbi_la/layers/polaformer.py)
+
+
+
+- [1/22]  🔥 Our paper has been accepted by **The International Conference on Learning Representations (ICLR)**, 2025.
+
 
 ## Introduction
 
@@ -117,14 +129,13 @@ This code is developed on the top of [Swin Transformer](https://github.com/micro
 If you find this repo helpful, please consider citing us.
 
 ```latex
-@misc{meng2025polaformerpolarityawarelinearattention,
-      title={PolaFormer: Polarity-aware Linear Attention for Vision Transformers}, 
-      author={Weikang Meng and Yadan Luo and Xin Li and Dongmei Jiang and Zheng Zhang},
-      year={2025},
-      eprint={2501.15061},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.15061}, 
+@inproceedings{
+meng2025polaformer,
+title={PolaFormer: Polarity-aware Linear Attention for Vision Transformers},
+author={Weikang Meng and Yadan Luo and Xin Li and Dongmei Jiang and Zheng Zhang},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=kN6MFmKUSK}
 }
 ```
 

@@ -9,7 +9,7 @@ This repo contains the official **PyTorch** code and pre-trained models for Pola
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2501.15061-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.15061)
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-PolaFormer-yellow)](https://huggingface.co/ZachMeng/PolaFormer/tree/main)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZacharyMeng%2FPolaFormer%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![stars](https://img.shields.io/github/stars/ZacharyMeng/PolaFormer)](https://github.com/ZacharyMeng/PolaFormer/stargazers)
 </h5>
 
 ## 🔥 News

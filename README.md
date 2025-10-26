@@ -13,7 +13,7 @@ This repo contains the official **PyTorch** code and pre-trained models for Pola
 </h5>
 
 ## 🔥 News
-- [10/26]  🔥 The upgraded version, **PolaFormer++**, has been released. We warmly welcome the community to use and explore it!
+- [10/26]  🔥 The next version model, [**PolaFormer++**](https://github.com/ZacharyMeng/PolaFormerPP) has been released. We warmly welcome the community to use and explore it!
 
 
 

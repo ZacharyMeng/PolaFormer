@@ -13,6 +13,10 @@ This repo contains the official **PyTorch** code and pre-trained models for Pola
 </h5>
 
 ## 🔥 News
+- [10/26]  🔥 The upgraded version, **PolaFormer++**, has been released. We warmly welcome the community to use and explore it!
+
+
+
 - [2/4]  🔥 The triton implementation of PolaFormer is released thanks to [fbi_la library](https://github.com/fla-org/flash-bidirectional-linear-attention/blob/main/fbi_la/layers/polaformer.py)
 
 

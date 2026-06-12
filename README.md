@@ -13,15 +13,19 @@ This repo contains the official **PyTorch** code and pre-trained models for Pola
 </h5>
 
 ## 🔥 News
-- [10/26]  🔥 The next version model, [**PolaFormer++**](https://github.com/ZacharyMeng/PolaFormerPP) has been released. We warmly welcome the community to use and explore it!
+- [2026.06]  🔥 If you are interested in linear attention, you might also want to check out our new work **NalaFormer**, which has been accepted by **ICML 2026**. [[paper](https://arxiv.org/pdf/2506.21137)] [[code](https://github.com/ZacharyMeng/NaLaFormer)]
 
 
 
-- [2/4]  🔥 The triton implementation of PolaFormer is released thanks to [fbi_la library](https://github.com/fla-org/flash-bidirectional-linear-attention/blob/main/fbi_la/layers/polaformer.py)
+- [2025.10]  🔥 The next version model, [**PolaFormer++**](https://github.com/ZacharyMeng/PolaFormerPP) has been released. We warmly welcome the community to use and explore it!
 
 
 
-- [1/22]  🔥 Our paper has been accepted by **The International Conference on Learning Representations (ICLR)**, 2025.
+- [2025.04]  🔥 The triton implementation of PolaFormer is released thanks to [fbi_la library](https://github.com/fla-org/flash-bidirectional-linear-attention/blob/main/fbi_la/layers/polaformer.py)
+
+
+
+- [0205.01]  🔥 Our paper has been accepted by **The International Conference on Learning Representations (ICLR)**, 2025.
 
 
 ## Introduction

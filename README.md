@@ -13,6 +13,10 @@ This repo contains the official **PyTorch** code and pre-trained models for Pola
 </h5>
 
 ## 🔥 News
+- [2026.08]  🔥 [**PolaFormer++**](https://github.com/ZacharyMeng/PolaFormerPP) has been accepted to TPAMI, and the paper will be released soon!
+
+
+
 - [2026.06]  🔥 If you are interested in linear attention, you might also want to check out our new work **NalaFormer**, which has been accepted by **ICML 2026**. [[paper](https://arxiv.org/pdf/2506.21137)] [[code](https://github.com/ZacharyMeng/NaLaFormer)]
 
 
